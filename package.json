@@ -1,0 +1,23 @@
+{
+    "name": "week-1-code-challenge",
+    "version": "1.0.0",
+    "description": "code-challenge",
+    "main": "index.js",
+    "scripts": {
+      "test": "npm test"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/Bwaweru12345/week-1-Code-challange"
+    },
+    "keywords": [
+      "challenge"
+      
+    ],
+    "author": "Bryan Waweru",
+    "license": "ISC",
+    "bugs": {
+      "url": "https://github.com/Bwaweru12345/week-1-Code-challange/issues"
+    },
+    "homepage": "https://github.com/Bwaweru12345/week-1-Code-challange#readme"
+  }
