@@ -1,5 +1,6 @@
 # week-1-Code-challenge
 
+<!-- Start -->
 
 # Running the code description
 This is a brief explanation of how to run the code for three different code challenges so as to get the correct output.
