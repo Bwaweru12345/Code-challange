@@ -81,7 +81,7 @@ console.log('Gross salary:', gross)
  console.log('PAYE deductions:', PAYE)
  console.log('NSSF deduction:', NSSF)
 
-//--------------Nhif code---------
+//NHIF
         if (gross <= 5999 && gross > 0 ){
             NHIF = (150)}
         else if (gross > 6000 && gross <= 7999) {
@@ -128,6 +128,5 @@ console.log('Gross salary:', gross)
 
 
         console.log(salCalc(5000, 2500));
-
 
 // ==============End of the salary calculator code================
